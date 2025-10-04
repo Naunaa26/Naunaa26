@@ -1,4 +1,6 @@
-# 👋 Hello, I'm **Upalz Developer**
+# 👋 Hello, I'm
+
+![Naunaa26](img/github-header-banner.png)
 
 <table>
 <tr>
